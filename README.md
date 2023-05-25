@@ -19,4 +19,4 @@ A la hora de trabajar, debes optar por exportar las imágenes directamente desde
 ¡Mucha suerte y que te lo pases bien! 
 
 **Enlace al proyecto**
-[Aquí puedes accedeer al proyecto](https://teralv.github.io/web_project_3_esp/)
+[Aquí puedes accedeer al proyecto](https://teralv.github.io/web_project_3_esp/index.html)
