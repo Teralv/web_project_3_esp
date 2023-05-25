@@ -1,0 +1,6 @@
+.places__image {
+  width: 100%;
+  grid-area: image;
+  margin: 0;
+  object-fit: cover;
+}

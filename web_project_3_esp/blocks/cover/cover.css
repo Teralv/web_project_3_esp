@@ -1,0 +1,31 @@
+.cover {
+  width: 90%;
+  height: 740px;
+  margin: 10px auto 90px;
+  background: center / cover url(../../images/__cover-background.jpg);
+  background-color: rgba(42, 44, 47, 0.3);
+  background-blend-mode: soft-light;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: background-color 1s;
+}
+
+.cover:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
+
+@media screen and (max-width: 1224px) {
+  .cover {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .cover {
+    height: 250px;
+    margin-top: 4rem;
+  }
+}
