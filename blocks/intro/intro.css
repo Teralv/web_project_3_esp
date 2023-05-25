@@ -1,0 +1,13 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  align-items: start;
+  margin: auto;
+}
+
+@media screen and (max-width: 1225px) {
+  .intro {
+    width: 95%;
+  }
+}
