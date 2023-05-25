@@ -1,0 +1,18 @@
+.places__paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.63;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  grid-area: paragraph;
+  height: min-content;
+}
+
+@media screen and (max-width: 900px) {
+  .places__paragraph {
+    width: auto;
+    font-size: 1rem;
+    padding: 0;
+  }
+}
